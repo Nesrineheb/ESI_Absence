@@ -1,6 +1,9 @@
 # esi_absence
 
-A new Flutter project.
+Une application mobile qui a essentiellement pour but d automatiser et faciliter la saisie des presences et absences des profs  et ce comme suit 
+Pour chaque Module l enseignant qui est deja connecte a son compte via l application mobile trouve ces modules actifs et fermee du semestre
+Pour chaque Module il trouve l ensemble des seances En cours et finis
+Pour chaque seance la liste des groupes concernee apparaisse et pour chaque groupe y a la liste des etudiants inscrit dans le groupe puis il saisie les presences des etudiants .
 
 ## Getting Started
 
